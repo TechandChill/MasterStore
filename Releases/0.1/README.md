@@ -4,6 +4,7 @@ An application store to unify all open source repositories known to us. We want 
 
 **Dependencies:**
 -git
+
 -art
--fonttools
--tkinter (python3-tk)
+
+-htmlpy (with python3-pyside)
